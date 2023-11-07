@@ -1,0 +1,105 @@
+<mxfile host="Electron" modified="2023-11-07T22:58:42.456Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="500QT8BBoa3GhZnvuPe3" version="22.0.3" type="device" pages="2">
+  <diagram name="Things to Code" id="dFYEfLxnvB1pZOQPOkiK">
+    <mxGraphModel dx="1548" dy="1131" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XP7jaEoKwjMeITIseGGN-1" value="List of Admin Functions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-184" y="-90" width="142" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XP7jaEoKwjMeITIseGGN-2" value="List of Data policies" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-90" width="122" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XP7jaEoKwjMeITIseGGN-3" value="&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Certified Data Sources&lt;/li&gt;&lt;ol style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;CRUD&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Move Workbooks and Datasources within sites&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Process: Staging 2 Production&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Archiving Content&lt;/li&gt;&lt;li&gt;Business Migrations&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Refresh Extracts&lt;/li&gt;&lt;ol&gt;&lt;li&gt;ETL purposes&amp;nbsp;&lt;/li&gt;&lt;li&gt;Multi-Extracts On demand&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Subscription management &amp;lt;&amp;lt;Closer look&amp;gt;&amp;gt;&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;How will this work?&lt;br&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;What are the options we want to release here?&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Data Download (file2email) &amp;amp; Tracking&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;compare functionality vs B.O&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Schedules???&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Is this possible?&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Set Starting Page for multiple users.&lt;/li&gt;&lt;li&gt;Ingest Tableau Data to Databricks.&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-202" y="-78" width="346" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="XP7jaEoKwjMeITIseGGN-4" value="&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;d&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="146" width="65" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XP7jaEoKwjMeITIseGGN-5" value="&lt;ol&gt;&lt;li&gt;45 Days Licensing - Use it or lose it.&lt;/li&gt;&lt;li&gt;External licensing&lt;/li&gt;&lt;ol&gt;&lt;li&gt;to create!&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;i&gt;be careful with those that have paid.&lt;/i&gt;&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Unused explorer/creator licenses&lt;/li&gt;&lt;ol&gt;&lt;li&gt;what to do?&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Archiving Content&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;???&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-78" width="305" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="AJO_YaovbLVP1fwbNk_i-1" value="&lt;b&gt;&lt;u&gt;Publishing Tool&lt;/u&gt;&lt;/b&gt;. (**)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="243" y="137" width="131" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_LNcdLG1yYTJd96klJLs" name="Processes">
+    <mxGraphModel dx="2213" dy="1700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-1" value="PFG" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="-184" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-2" value="EXEC" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="-101" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-3" value="EXTERNAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="-18" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-5" value="" style="endArrow=none;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="100" as="sourcePoint" />
+            <mxPoint x="-130" y="-226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-6" value="STAGING" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-46" y="-101" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-8" value="FREE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="-41" width="50" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-9" value="REGULATED" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-273" y="-224" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-10" value="Publish Process&lt;br&gt;Curation Process" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="-262" width="110" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="iTpAW5ZM-KDC4aoBE9x7-11" target="iTpAW5ZM-KDC4aoBE9x7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="iTpAW5ZM-KDC4aoBE9x7-11" target="iTpAW5ZM-KDC4aoBE9x7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-11" value="(**) &lt;b&gt;Business Oriented Structure&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="-127" width="201" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-16" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="iTpAW5ZM-KDC4aoBE9x7-15" target="iTpAW5ZM-KDC4aoBE9x7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-15" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-243" y="-403" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-19" value="Metadata Stored in DBricks" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.538;exitY=0.036;exitDx=0;exitDy=0;exitPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="iTpAW5ZM-KDC4aoBE9x7-17" target="iTpAW5ZM-KDC4aoBE9x7-15">
+          <mxGeometry x="-0.3529" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="12" y="-198" />
+              <mxPoint x="12" y="-373" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-17" value="&lt;b&gt;&lt;u&gt;Publishing Tool&lt;/u&gt;&lt;/b&gt;. (**)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-57" y="-185" width="131" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.534;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="iTpAW5ZM-KDC4aoBE9x7-6" target="iTpAW5ZM-KDC4aoBE9x7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-20" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Publish Process&lt;/span&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;From S2P(New)&lt;/span&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Push content to Prod location&lt;/li&gt;&lt;li&gt;Move content to Archive in Staging&lt;/li&gt;&lt;li&gt;Archive content will be deleted after 30 days.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;From P2S2P (pre-existing)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Copy content to Staging location&lt;/li&gt;&lt;li&gt;Overwrite Prod content from Tool.&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Move content to Archive in Staging&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Archive content will be deleted after 30 days.&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-69" y="-4" width="526" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-21" value="Production Sites&lt;br&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(all Viewers)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-313.5" y="53" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iTpAW5ZM-KDC4aoBE9x7-22" value="To figure out:&lt;br&gt;**published datasources**&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-688" y="174" width="261" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8_MccIylfTUYIEd2B6vZ-1" value="&lt;font color=&quot;#006633&quot; style=&quot;font-size: 13px;&quot;&gt;** Cost Benefit&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Architects Daughter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-288" y="103" width="115" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
