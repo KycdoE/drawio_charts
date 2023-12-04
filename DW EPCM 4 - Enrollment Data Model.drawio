@@ -1,0 +1,1377 @@
+<mxfile host="Electron" modified="2023-12-04T17:46:27.659Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="JEw_HtCcUjC7sH2P0sbD" version="22.1.2" type="device" pages="5">
+  <diagram name="Final EPCM 3.1" id="33UGkqzLwIdzk79tW7TT">
+    <mxGraphModel dx="2556" dy="2770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="3rEZ6xEGqcz71s_I9r50-0" />
+        <mxCell id="3rEZ6xEGqcz71s_I9r50-1" parent="3rEZ6xEGqcz71s_I9r50-0" />
+        <UserObject label="" lucidchartObjectId="MFtASU_H6kOK" id="3rEZ6xEGqcz71s_I9r50-33">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.349;entryY=0;entryPerimeter=0;exitDx=0;exitDy=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-82" target="3rEZ6xEGqcz71s_I9r50-74" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="1007.5" y="522.2179999999707" as="sourcePoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="3rEZ6xEGqcz71s_I9r50-52" target="N3Dahj9pIh93DC18XHHj-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1129" y="-1077" />
+              <mxPoint x="784" y="-1077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;Data warehouse DIM Table&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="zoHAUFa-GI66" id="3rEZ6xEGqcz71s_I9r50-52">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="997" y="-1180" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="3rEZ6xEGqcz71s_I9r50-1" source="3rEZ6xEGqcz71s_I9r50-60" target="N3Dahj9pIh93DC18XHHj-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Learners&lt;br&gt;&lt;i&gt;&lt;b&gt;Data warehouse DIM Table&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="~qHAldtoP.1P" id="3rEZ6xEGqcz71s_I9r50-60">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="652" y="-1180" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="4tHAt~9loAMa" id="3rEZ6xEGqcz71s_I9r50-63">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.422;exitY=0.992;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="3rEZ6xEGqcz71s_I9r50-74" target="3rEZ6xEGqcz71s_I9r50-78" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="BUIAmi_P4uTD" id="3rEZ6xEGqcz71s_I9r50-72">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#0000FF;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=classic;endArrow=block;endFill=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startFill=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-82" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="262" y="-65" />
+              </Array>
+              <mxPoint x="850.7559999999999" y="317.99999999998545" as="sourcePoint" />
+              <mxPoint x="262" y="-373" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="3rEZ6xEGqcz71s_I9r50-73" value="Adds and Removes learners to Static date when&lt;br&gt;Learner status changes to Expire/Inactive**&lt;br&gt;- Dynamic Flow -" style="text;html=1;resizable=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fontColor=#1d262b;fontSize=13;rounded=1;" parent="3rEZ6xEGqcz71s_I9r50-72" vertex="1">
+          <mxGeometry x="0.33442300723731266" relative="1" as="geometry">
+            <mxPoint x="167" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Datawarehouse&lt;br&gt;Models" lucidchartObjectId="MFtANbAF_fh7" id="3rEZ6xEGqcz71s_I9r50-74">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.azure.sql_database_sql_azure;fontSize=13;fontColor=#1d262b;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0078d7;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="985" y="5" width="85" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="3rEZ6xEGqcz71s_I9r50-77" value="" style="group;rounded=1;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1" connectable="0">
+          <mxGeometry x="931" y="161" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3rEZ6xEGqcz71s_I9r50-78" value="" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;rounded=1;" parent="3rEZ6xEGqcz71s_I9r50-77" vertex="1">
+          <mxGeometry x="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="MODELS&lt;br&gt;EPCM3" lucidchartObjectId="bvHAvr.qQoxq" id="3rEZ6xEGqcz71s_I9r50-79">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-77" vertex="1">
+            <mxGeometry y="45" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-0" value="LMS" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=1;spacing=0;strokeColor=#d916a8;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#ff80df;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1062" y="-996" width="311" height="503" as="geometry" />
+        </mxCell>
+        <UserObject label="ACLS Enrollments&lt;br&gt;- &lt;b&gt;DAIS&lt;/b&gt; -&amp;nbsp;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-11">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-0" vertex="1">
+            <mxGeometry x="24" y="431" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-1" target="N3Dahj9pIh93DC18XHHj-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Catalog Programs Enrollments&lt;br&gt;- &lt;b&gt;Canvas&lt;/b&gt; -&amp;nbsp;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="1086" y="-943" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-2" target="N3Dahj9pIh93DC18XHHj-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Catalog Courses Enrollments&lt;br&gt;- &lt;b&gt;Canvas&lt;/b&gt; -&amp;nbsp;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-2">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="1086" y="-868" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-4" target="N3Dahj9pIh93DC18XHHj-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Standalone Courses Enrollments&lt;br&gt;&lt;i&gt;PreCatalog &amp;amp; Sole Course&lt;/i&gt;&lt;br&gt;&lt;b&gt;- Canvas -&amp;nbsp;&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="1086" y="-795" width="263" height="62" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-6" target="N3Dahj9pIh93DC18XHHj-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="MKEDU Enrollments&lt;br&gt;- &lt;b&gt;&lt;i&gt;Static Stats Data&lt;/i&gt;&lt;/b&gt; -&amp;nbsp;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="1086" y="-703" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-9" target="N3Dahj9pIh93DC18XHHj-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="DAIS Enrollments&lt;br&gt;- &lt;b&gt;&lt;i&gt;Static Stats Data&lt;/i&gt;&lt;/b&gt; -&amp;nbsp;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-9">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="1086" y="-633" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=classic;endFill=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-13" target="N3Dahj9pIh93DC18XHHj-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-13" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="628" y="-994" width="311.00000000000006" height="371.9999999999709" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-14" value="CRM" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=1;spacing=0;strokeColor=#d916a8;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#ff80df;" parent="N3Dahj9pIh93DC18XHHj-13" vertex="1">
+          <mxGeometry width="311.00000000000006" height="371.9999999999709" as="geometry" />
+        </mxCell>
+        <UserObject label="Expires&lt;br&gt;&lt;b&gt;- Static EPCM 2.1 Data &lt;br&gt;+ Dynamic Flow -&amp;nbsp;&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-20">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-14" vertex="1">
+            <mxGeometry x="24" y="277" width="263" height="62" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Program Enrollments&lt;br&gt;&lt;b&gt;- Salesforce -&lt;/b&gt;" lucidchartObjectId="lItA-AVAxaY0" id="N3Dahj9pIh93DC18XHHj-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="652" y="-942" width="263" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="WItA9poQpBFA" id="N3Dahj9pIh93DC18XHHj-16">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#d916a8;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.02;exitPerimeter=0;entryX=0.5;entryY=-0.026;entryPerimeter=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-15" target="N3Dahj9pIh93DC18XHHj-17" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-17" target="N3Dahj9pIh93DC18XHHj-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Enrollments&lt;br&gt;&lt;b&gt;- Salesforce -&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-17">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="652" y="-868" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-18" target="N3Dahj9pIh93DC18XHHj-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Completers&lt;br&gt;&lt;b&gt;- Static EPCM 2.1 Data -&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-18">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="652" y="-793" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-22" target="N3Dahj9pIh93DC18XHHj-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3rEZ6xEGqcz71s_I9r50-1" target="N3Dahj9pIh93DC18XHHj-20" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="-422.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-51" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1223.5" y="-492" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1015" y="-465" />
+              <mxPoint x="1224" y="-465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-51" target="N3Dahj9pIh93DC18XHHj-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="DS_EPCM&lt;br&gt;- &lt;b&gt;CRM-LMS Match&lt;/b&gt;&amp;nbsp;-&amp;nbsp;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;(USER ID - UUID - ENROLLMENT DATE_MATCH_KEY )&lt;/i&gt;&lt;/font&gt;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-51">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="873" y="-303" width="283" height="68" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-52" target="N3Dahj9pIh93DC18XHHj-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="437" y="-1077" />
+              <mxPoint x="784" y="-1077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Parent Program&lt;br&gt;&lt;i&gt;&lt;b&gt;Data warehouse DIM Table&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="8iHAjh2WpPkE" id="N3Dahj9pIh93DC18XHHj-52">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="305" y="-1180" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-66" target="N3Dahj9pIh93DC18XHHj-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-66" value="Components" style="swimlane;horizontal=0;rounded=1;fontSize=12;startSize=23;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="288" y="-1387.5" width="297" height="146" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Program Enrollments&lt;br&gt;&lt;b&gt;&lt;i&gt;- Salesforce -&lt;/i&gt;&lt;/b&gt;" lucidchartObjectId="7jHAJtHe2Cm-" id="N3Dahj9pIh93DC18XHHj-54">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-66" vertex="1">
+            <mxGeometry x="47" y="18" width="225" height="52" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;br&gt;&lt;/i&gt;Opportunity Bundle&lt;br&gt;&lt;b&gt;&lt;i&gt;- Salesforce -&lt;/i&gt;&lt;/b&gt;" lucidchartObjectId="hkHAQGbRr5Ej" id="N3Dahj9pIh93DC18XHHj-55">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-66" vertex="1">
+            <mxGeometry x="47" y="81" width="225" height="53" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-71" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-68" target="3rEZ6xEGqcz71s_I9r50-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-68" value="Components" style="swimlane;horizontal=0;rounded=1;fontSize=12;startSize=23;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="980" y="-1464" width="297" height="226" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Academic Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce Account -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="OoHA.fsb_teF" id="N3Dahj9pIh93DC18XHHj-63">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-68" vertex="1">
+            <mxGeometry x="46" y="18" width="225" height="53" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Corporate&amp;nbsp;Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce Account -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="ToHAZMlGt-.y" id="N3Dahj9pIh93DC18XHHj-64">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-68" vertex="1">
+            <mxGeometry x="46" y="84" width="225" height="56" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Hiring Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce Account -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="wpHAEqQC0IKL" id="N3Dahj9pIh93DC18XHHj-65">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-68" vertex="1">
+            <mxGeometry x="46" y="154" width="225" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-77" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-76" target="N3Dahj9pIh93DC18XHHj-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-76" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MODELED UEID&lt;/font&gt;&lt;/b&gt;&lt;br&gt;OPP_ID --&amp;gt; LMS PROGRAM ENROLLMENT ID&lt;br&gt;1:1 Relationship" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.10971615720524018;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1023" y="-416.5" width="229" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=15;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-82" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1269.5" y="-492.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1098" y="-201" />
+              <mxPoint x="1270" y="-201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-88" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=15;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-82" target="N3Dahj9pIh93DC18XHHj-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="932" y="-201" />
+              <mxPoint x="706" y="-201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;b style=&quot;font-size: 15px;&quot;&gt;EPCM3&lt;/b&gt;&lt;br&gt;&lt;i&gt;Data Processing and Model Calculations&amp;nbsp;&lt;/i&gt;" lucidchartObjectId="YItA6roW3f0o" id="N3Dahj9pIh93DC18XHHj-82">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;spacing=3.8;strokeColor=#9673a6;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e1d5e7;strokeWidth=2.3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+            <mxGeometry x="848.5" y="-116" width="332" height="68" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="nTIA6ZvlvFQI" id="N3Dahj9pIh93DC18XHHj-83">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#cc4e00;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.005;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-82" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="590" y="-99" />
+                <mxPoint x="590" y="-748" />
+              </Array>
+              <mxPoint x="848.5" y="-76" as="sourcePoint" />
+              <mxPoint x="415.55499999999984" y="-748.0540000000171" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-84" value="Add to Static.Completers when &lt;br&gt;Learner completes the program/course" style="text;html=1;resizable=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fontColor=#1d262b;fontSize=13;rounded=1;" parent="N3Dahj9pIh93DC18XHHj-83" vertex="1">
+          <mxGeometry x="0.22609501414616062" relative="1" as="geometry">
+            <mxPoint x="130" y="404" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-90" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Enrollment Progression Completion&lt;br&gt;Data Model&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="910" y="261" width="222" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-94" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#1A1A1A;fontSize=12;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-93" target="N3Dahj9pIh93DC18XHHj-92" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-93" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;PROGRAM_STUDENT_STATUS&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;PROGRAM_ACCESS&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;PROGRAM_DISABLED_REASON&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;SUPPORT_HAS_EXPIRED&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;STUDENT_STATUS&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.10971615720524018;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="-191" y="-533.5" width="259" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-95" value="" style="group" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1" connectable="0">
+          <mxGeometry x="108" y="-994" width="311.00000000000006" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-22" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-95" vertex="1">
+          <mxGeometry width="311.00000000000006" height="324" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-23" value="STATIC DATA&lt;br&gt;&lt;b&gt;Completers&lt;/b&gt;" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=38;dropTarget=0;rounded=1;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;fillColor=#F5FBFF;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;" parent="N3Dahj9pIh93DC18XHHj-22" vertex="1">
+          <mxGeometry width="311" height="324" as="geometry" />
+        </mxCell>
+        <UserObject label="DAIS&#xa;Completers" lucidchartObjectId="EJrAy23tkxAG" id="N3Dahj9pIh93DC18XHHj-24">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-95" vertex="1">
+            <mxGeometry x="25" y="257" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Catalog Courses&lt;br&gt;Completers" lucidchartObjectId="gKrAsocFKFoQ" id="N3Dahj9pIh93DC18XHHj-26">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-95" vertex="1">
+            <mxGeometry x="23" y="123" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Catalog Programs&lt;br&gt;Completers" lucidchartObjectId="CLrAkubVnPRc" id="N3Dahj9pIh93DC18XHHj-28">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-95" vertex="1">
+            <mxGeometry x="25" y="56" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Canvas Course (Standalone)&lt;br&gt;Completers" lucidchartObjectId="ULrAxwUtAxgy" id="N3Dahj9pIh93DC18XHHj-30">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-95" vertex="1">
+            <mxGeometry x="28" y="190" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="HjqN21yZC6dNGJE3CC21-3" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="N3Dahj9pIh93DC18XHHj-95" vertex="1">
+          <mxGeometry x="269" y="273" width="31" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-96" value="" style="group" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1" connectable="0">
+          <mxGeometry x="109" y="-642" width="311" height="266" as="geometry" />
+        </mxCell>
+        <UserObject label="EPCM 2.1 Learner Status" lucidchartObjectId="tUrAOs3MMmTN" id="N3Dahj9pIh93DC18XHHj-36">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-96" vertex="1">
+            <mxGeometry x="26.5" y="197.7433962264151" width="263" height="49.18490566037736" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;Program Learner Status&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;i&gt;&amp;nbsp;- SF Program Enrollment -&amp;nbsp;&lt;/i&gt;" lucidchartObjectId="tUrAnZRN21lc" id="N3Dahj9pIh93DC18XHHj-38">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-96" vertex="1">
+            <mxGeometry x="21.5" y="58.218867924528304" width="263" height="49.18490566037736" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;Learner Status&amp;nbsp;&lt;br&gt;&lt;/b&gt;(Logic)&lt;br&gt;&lt;i&gt;- SF Enrollment -&amp;nbsp;&lt;/i&gt;" lucidchartObjectId="tUrAnZRN21lc" id="N3Dahj9pIh93DC18XHHj-92">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-96" vertex="1">
+            <mxGeometry x="21.5" y="128.48301886792453" width="263" height="49.18490566037736" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-33" value="STATIC DATA&lt;br&gt;&lt;b&gt;Expired - Withdraw - Returns - Disabled&lt;/b&gt;" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=41;dropTarget=0;rounded=1;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;fillColor=#F5FBFF;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;" parent="N3Dahj9pIh93DC18XHHj-96" vertex="1">
+          <mxGeometry width="311" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#1A1A1A;fontSize=12;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="3rEZ6xEGqcz71s_I9r50-1" source="N3Dahj9pIh93DC18XHHj-97" target="3rEZ6xEGqcz71s_I9r50-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-97" value="Components" style="swimlane;horizontal=0;rounded=1;fontSize=12;startSize=23;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="635" y="-1554" width="297" height="316" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Accounts&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce -&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="OoHA.fsb_teF" id="N3Dahj9pIh93DC18XHHj-98">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-97" vertex="1">
+            <mxGeometry x="46" y="18" width="225" height="53" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Users&lt;br&gt;&lt;i&gt;&lt;b&gt;- Canvas -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="ToHAZMlGt-.y" id="N3Dahj9pIh93DC18XHHj-99">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-97" vertex="1">
+            <mxGeometry x="46" y="84" width="225" height="56" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Users&lt;br&gt;&lt;i&gt;&lt;b&gt;- DAIS -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="wpHAEqQC0IKL" id="N3Dahj9pIh93DC18XHHj-100">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-97" vertex="1">
+            <mxGeometry x="46" y="154" width="225" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Users&lt;br&gt;&lt;i&gt;&lt;b&gt;- BigCommerce -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="wpHAEqQC0IKL" id="N3Dahj9pIh93DC18XHHj-101">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="N3Dahj9pIh93DC18XHHj-97" vertex="1">
+            <mxGeometry x="46" y="226" width="225" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N3Dahj9pIh93DC18XHHj-102" value="etc...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;fontStyle=1" parent="N3Dahj9pIh93DC18XHHj-97" vertex="1">
+          <mxGeometry x="224" y="290" width="49" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EIqsY9d2daEYxeINg3pt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="3rEZ6xEGqcz71s_I9r50-1" source="EIqsY9d2daEYxeINg3pt-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="-851" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIqsY9d2daEYxeINg3pt-0" value="Rest API&lt;br&gt;Higher &lt;br&gt;Frequency&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1462" y="-881" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EIqsY9d2daEYxeINg3pt-2" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1519" y="-921" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIqsY9d2daEYxeINg3pt-3" value="2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeWidth%3D3%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221440%22%20y%3D%22-958%22%20width%3D%2238%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="572" y="-591" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIqsY9d2daEYxeINg3pt-4" value="3" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="245.5" y="-205" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EIqsY9d2daEYxeINg3pt-5" value="&lt;ol&gt;&lt;li&gt;Data Needs List&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Canvas API &amp;amp; Update EPCM3/STATIC (Billy/Elkin1) &amp;gt;&amp;gt; Done ((upgrading B2C Enrolls Execs. ((B/J/E1.1))&lt;/li&gt;&lt;li&gt;Placement (Josh/Elkin2)&lt;/li&gt;&lt;li&gt;D/F enrollments (Billy-2)/Elkin3&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sales Events (Brad/Elkin4) &amp;gt;&amp;gt; Elkin(Create) until Billy2 done.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Compensation Engine&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;HR Dayforce (Noam) !! ELKIN&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Sales Static&lt;b&gt;&amp;nbsp;&amp;gt;&amp;gt; Billy&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Data Tool (Elkin5//Shinhee)&lt;/li&gt;&lt;li&gt;Data Models (Billy3)&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&amp;nbsp;List of Plans to model (Brad)&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;Finishing D/F Sales (E6 &amp;gt; BH4)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ENROLLMENT_PATH (Josh 2) - E8&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Lead &amp;lt; Enrollment &amp;gt; Placement&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Enrollment &amp;gt; Placement&lt;/li&gt;&lt;li&gt;&lt;b&gt;Verified vs unverified Enrollments???&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Board Metrics Model -- Elkin7&amp;gt;&amp;gt;BH5&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1657" y="-787" width="617" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="HjqN21yZC6dNGJE3CC21-0" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1338" y="-695.5" width="31" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="HjqN21yZC6dNGJE3CC21-1" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1331" y="-555" width="31" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="HjqN21yZC6dNGJE3CC21-2" value="" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="3rEZ6xEGqcz71s_I9r50-1" vertex="1">
+          <mxGeometry x="1336" y="-625.5" width="31" height="27" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8o9dYGrPwkWi18jsWkxT" name="EPCM Data Flow">
+    <mxGraphModel dx="2156" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-1" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;horizontalStack=0;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;horizontal=0;strokeWidth=2.3;" parent="1" vertex="1">
+          <mxGeometry x="55" y="107" width="1703.999999999971" height="1064.9999999999714" isRotated="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-2" value="PROGRAM ENROLLMENT" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="XZSX_mOQOlsHwmrXeQKf-1" vertex="1">
+          <mxGeometry width="1703.999999999971" height="182.9999999999709" as="geometry" />
+        </mxCell>
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-3" value="CANVAS" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="XZSX_mOQOlsHwmrXeQKf-1" vertex="1">
+          <mxGeometry y="182.9999999999709" width="1703.999999999971" height="158.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-4" value="DIM LEARNER" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="XZSX_mOQOlsHwmrXeQKf-1" vertex="1">
+          <mxGeometry y="340.99999999997095" width="1703.999999999971" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-5" value="DIM PARENT PROGRAM" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#00c2a8;" parent="XZSX_mOQOlsHwmrXeQKf-1" vertex="1">
+          <mxGeometry y="484.99999999997095" width="1703.999999999971" height="174.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-6" value="DIM PARTNERS" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="XZSX_mOQOlsHwmrXeQKf-1" vertex="1">
+          <mxGeometry y="659.9999999999709" width="1703.999999999971" height="128.00000000000023" as="geometry" />
+        </mxCell>
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-7" value="EPCM" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="XZSX_mOQOlsHwmrXeQKf-1" vertex="1">
+          <mxGeometry y="787.9999999999711" width="1703.999999999971" height="130.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="XZSX_mOQOlsHwmrXeQKf-8" value="TABLEAU &#xa;DATA SOURCES" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#1071e5;" parent="XZSX_mOQOlsHwmrXeQKf-1" vertex="1">
+          <mxGeometry y="917.9999999999712" width="1703.999999999971" height="147" as="geometry" />
+        </mxCell>
+        <UserObject label="EPCM 3.1 - ENROLLMENT PROGRESSION COMPLETION DATA MODEL v3.1" lucidchartObjectId="5DqNV85SuKYy" id="XZSX_mOQOlsHwmrXeQKf-9">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;fontStyle=1;spacing=0;fillColor=#ffffff;strokeWidth=1.5;strokeColor=none;" parent="1" vertex="1">
+            <mxGeometry x="556" y="62" width="609" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds Program Enrollments" lucidchartObjectId="oboNAiWMeFzl" id="XZSX_mOQOlsHwmrXeQKf-10">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="117" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="0boNh5Gkw0nS" id="XZSX_mOQOlsHwmrXeQKf-11">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-10" target="XZSX_mOQOlsHwmrXeQKf-12" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="276" y="964" />
+                <mxPoint x="276" y="675" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gets DIM Parent Program using SF ProgramID" lucidchartObjectId="1boNdsGF-eq5" id="XZSX_mOQOlsHwmrXeQKf-12">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="303" y="630" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="7coNkI64A0v5" id="XZSX_mOQOlsHwmrXeQKf-13">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=0.431;entryY=-0.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-12" target="XZSX_mOQOlsHwmrXeQKf-14" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds DIM PARENT PROGRAM ID" lucidchartObjectId="8coNCfcimU5r" id="XZSX_mOQOlsHwmrXeQKf-14">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="311" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CD PROGRAM ENROLLMENTS" lucidchartObjectId="EgoNhQwAGKgj" id="XZSX_mOQOlsHwmrXeQKf-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="253" y="149" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="OgoNm.py.vLp" id="XZSX_mOQOlsHwmrXeQKf-16">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=0.55;entryY=-0.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-15" target="XZSX_mOQOlsHwmrXeQKf-10" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="313" y="258" />
+                <mxPoint x="183" y="258" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="rioN5fbWGNbD" id="XZSX_mOQOlsHwmrXeQKf-17">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-14" target="XZSX_mOQOlsHwmrXeQKf-18" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="489" y="964" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gets All Learner Data using UUID" lucidchartObjectId="sioNstYFsyxX" id="XZSX_mOQOlsHwmrXeQKf-18">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="429" y="475" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ijoN9GvMr2T-" id="XZSX_mOQOlsHwmrXeQKf-19">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-18" target="XZSX_mOQOlsHwmrXeQKf-20" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="587" y="520" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds Learner DimRowID, Funded Flag" lucidchartObjectId="jjoNQpU-Ou~V" id="XZSX_mOQOlsHwmrXeQKf-20">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="527" y="914" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gets DIM PARTNER ID using  SF Partner Account ID" lucidchartObjectId="okoNnCfKjKEW" id="XZSX_mOQOlsHwmrXeQKf-21">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="668" y="781" width="120" height="99" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="skoNO.3Uip.I" id="XZSX_mOQOlsHwmrXeQKf-22">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.483;entryY=1.011;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-20" target="XZSX_mOQOlsHwmrXeQKf-21" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds Partner, Name and Da Flag" lucidchartObjectId="-koNLAjRX2Kc" id="XZSX_mOQOlsHwmrXeQKf-23">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="801" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId=".loN-ZvvDkEp" id="XZSX_mOQOlsHwmrXeQKf-24">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.011;exitPerimeter=0;entryX=0.5;entryY=1.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-21" target="XZSX_mOQOlsHwmrXeQKf-25" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Check against PE associated Partner" lucidchartObjectId="~loNM1Y6_ZVk" id="XZSX_mOQOlsHwmrXeQKf-25">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="668" y="149" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ImoNJgUKALK-" id="XZSX_mOQOlsHwmrXeQKf-26">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-25" target="XZSX_mOQOlsHwmrXeQKf-23" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="5moNl4K-9cTb" id="XZSX_mOQOlsHwmrXeQKf-27">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.011;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-23" target="XZSX_mOQOlsHwmrXeQKf-28" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;&quot;&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;&quot;&gt;Get ALLS LMS data connected by &lt;/span&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;font-weight: bold;&quot;&gt;UUID&lt;/span&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;&quot;&gt;&amp;nbsp;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; color: rgb(29, 38, 43);&quot;&gt;&lt;b&gt;DIM PARENT PROGRAM or DATE_MATCH_KEY&lt;/b&gt;&lt;br&gt;as needed&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="6moNLdRVpLAE" id="XZSX_mOQOlsHwmrXeQKf-28">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ff8f8f;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="928" y="319" width="245" height="99" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1noNzMQkHfsK" id="XZSX_mOQOlsHwmrXeQKf-29">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.004;entryY=0.5;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-28" target="XZSX_mOQOlsHwmrXeQKf-30" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="CD CATALOG PROGRAM ENROLLMENTS&#xa;or CD CATALOG COURSE ENROLLMENTS&#xa;or CD CANVAS COURSE ENROLLMENTS" lucidchartObjectId="2noN~9vboM_p" id="XZSX_mOQOlsHwmrXeQKf-30">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6f7681;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="1240" y="323.5" width="293" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="npoNY4rP~sOx" id="XZSX_mOQOlsHwmrXeQKf-31">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.474;exitY=1.012;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-30" target="XZSX_mOQOlsHwmrXeQKf-32" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds All Program Data  Calculations PPR/CPR " lucidchartObjectId="ppoN3oeHnlim" id="XZSX_mOQOlsHwmrXeQKf-32">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="1319" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="cvoNyHBn8o~7" id="XZSX_mOQOlsHwmrXeQKf-33">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-32" target="XZSX_mOQOlsHwmrXeQKf-34" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1379" y="1045" />
+                <mxPoint x="720" y="1045" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Updates all DATA SOURCES based on EPCM" lucidchartObjectId="dvoNbPqZpw3s" id="XZSX_mOQOlsHwmrXeQKf-34">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="660" y="1071" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="JVoND7st20sP" id="XZSX_mOQOlsHwmrXeQKf-35">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-34" target="XZSX_mOQOlsHwmrXeQKf-36" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Refresh All Business Dashboards" lucidchartObjectId="KVoNap1rdo.z" id="XZSX_mOQOlsHwmrXeQKf-36">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="886" y="1071" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="DnqNJ-KcBidy" id="XZSX_mOQOlsHwmrXeQKf-37">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-36" target="XZSX_mOQOlsHwmrXeQKf-38" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Refresh All Executive Dashboards" lucidchartObjectId="EnqN_CMn5DzZ" id="XZSX_mOQOlsHwmrXeQKf-38">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="1111" y="1071" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="roqNxQka2S1a" id="XZSX_mOQOlsHwmrXeQKf-39">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.014;entryY=0.5;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-38" target="XZSX_mOQOlsHwmrXeQKf-40" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="End" lucidchartObjectId="toqNBo3qc0yq" id="XZSX_mOQOlsHwmrXeQKf-40">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=13;fontColor=#ffffff;fontStyle=1;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;fillColor=#4c535d;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="1324" y="1097" width="78" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Start" lucidchartObjectId="kyqNOiih9JfL" id="XZSX_mOQOlsHwmrXeQKf-41">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=13;fontColor=#ffffff;fontStyle=1;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;fillColor=#4c535d;strokeWidth=2.3;" parent="1" vertex="1">
+            <mxGeometry x="131" y="175" width="78" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="qyqN5n.lhliB" id="XZSX_mOQOlsHwmrXeQKf-42">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.014;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="1" source="XZSX_mOQOlsHwmrXeQKf-41" target="XZSX_mOQOlsHwmrXeQKf-15" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="EPCM 4" id="ixRRlCcBT5JTybTiVvYe">
+    <mxGraphModel dx="2556" dy="2770" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-0" />
+        <mxCell id="MS-o8gS51LS8hScrr_qD-1" parent="MS-o8gS51LS8hScrr_qD-0" />
+        <UserObject label="" lucidchartObjectId="MFtASU_H6kOK" id="MS-o8gS51LS8hScrr_qD-2">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1;entryX=0.349;entryY=0;entryPerimeter=0;exitDx=0;exitDy=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-56" target="MS-o8gS51LS8hScrr_qD-10" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="1007.5" y="522.2179999999707" as="sourcePoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-4" target="MS-o8gS51LS8hScrr_qD-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1129" y="-1077" />
+              <mxPoint x="784" y="-1077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;Data warehouse DIM Table&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="zoHAUFa-GI66" id="MS-o8gS51LS8hScrr_qD-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="997" y="-1180" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-6" target="MS-o8gS51LS8hScrr_qD-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Learners&lt;br&gt;&lt;i&gt;&lt;b&gt;Data warehouse DIM Table&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="~qHAldtoP.1P" id="MS-o8gS51LS8hScrr_qD-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="652" y="-1180" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="4tHAt~9loAMa" id="MS-o8gS51LS8hScrr_qD-7">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.422;exitY=0.992;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-10" target="MS-o8gS51LS8hScrr_qD-12" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="BUIAmi_P4uTD" id="MS-o8gS51LS8hScrr_qD-8">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#0000FF;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=classic;endArrow=block;endFill=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startFill=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-56" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="262" y="-65" />
+              </Array>
+              <mxPoint x="850.7559999999999" y="317.99999999998545" as="sourcePoint" />
+              <mxPoint x="262" y="-373" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-9" value="Adds and Removes learners to Static date when&lt;br&gt;Learner status changes to Expire/Inactive**&lt;br&gt;- Dynamic Flow -" style="text;html=1;resizable=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fontColor=#1d262b;fontSize=13;rounded=1;" parent="MS-o8gS51LS8hScrr_qD-8" vertex="1">
+          <mxGeometry x="0.33442300723731266" relative="1" as="geometry">
+            <mxPoint x="167" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Datawarehouse&lt;br&gt;Models" lucidchartObjectId="MFtANbAF_fh7" id="MS-o8gS51LS8hScrr_qD-10">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.azure.sql_database_sql_azure;fontSize=13;fontColor=#1d262b;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#0078d7;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="985" y="5" width="85" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-11" value="" style="group;rounded=1;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1" connectable="0">
+          <mxGeometry x="931" y="161" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-12" value="" style="shape=datastore;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;rounded=1;" parent="MS-o8gS51LS8hScrr_qD-11" vertex="1">
+          <mxGeometry x="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <UserObject label="MODELS&lt;br&gt;EPCM3" lucidchartObjectId="bvHAvr.qQoxq" id="MS-o8gS51LS8hScrr_qD-13">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffffff;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-11" vertex="1">
+            <mxGeometry y="45" width="180" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-14" value="LMS" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=1;spacing=0;strokeColor=#d916a8;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#ff80df;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1062" y="-996" width="311" height="458" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-17" target="MS-o8gS51LS8hScrr_qD-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Catalog Programs Enrollments&lt;br&gt;- &lt;b&gt;Canvas&lt;/b&gt; -&amp;nbsp;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-17">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1086" y="-943" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-19" target="MS-o8gS51LS8hScrr_qD-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Catalog Courses Enrollments&lt;br&gt;- &lt;b&gt;Canvas&lt;/b&gt; -&amp;nbsp;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-19">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1086" y="-868" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Canvas Course Enrollments&lt;br&gt;&lt;b&gt;- Canvas -&amp;nbsp;&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-21">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1086" y="-795" width="263" height="62" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=classic;endFill=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-27" target="MS-o8gS51LS8hScrr_qD-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-27" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="628" y="-994" width="311.00000000000006" height="371.9999999999709" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-28" value="CRM" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=1;spacing=0;strokeColor=#d916a8;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#ff80df;" parent="MS-o8gS51LS8hScrr_qD-27" vertex="1">
+          <mxGeometry width="311.00000000000006" height="371.9999999999709" as="geometry" />
+        </mxCell>
+        <UserObject label="Expires&lt;br&gt;&lt;b&gt;- Static EPCM 2.1 Data &lt;br&gt;+ Dynamic Flow -&amp;nbsp;&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-29">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-28" vertex="1">
+            <mxGeometry x="24" y="277" width="263" height="62" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Program Enrollments&lt;br&gt;&lt;b&gt;- Salesforce -&lt;/b&gt;" lucidchartObjectId="lItA-AVAxaY0" id="MS-o8gS51LS8hScrr_qD-30">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="652" y="-942" width="263" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="WItA9poQpBFA" id="MS-o8gS51LS8hScrr_qD-31">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#d916a8;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.02;exitPerimeter=0;entryX=0.5;entryY=-0.026;entryPerimeter=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-30" target="MS-o8gS51LS8hScrr_qD-33" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-33" target="MS-o8gS51LS8hScrr_qD-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Enrollments&lt;br&gt;&lt;b&gt;- Salesforce -&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-33">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="652" y="-868" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-35" target="MS-o8gS51LS8hScrr_qD-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Completers&lt;br&gt;&lt;b&gt;- Static EPCM 2.1 Data -&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-35">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="652" y="-793" width="263" height="42" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="MS-o8gS51LS8hScrr_qD-1" target="MS-o8gS51LS8hScrr_qD-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411" y="-808" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="MS-o8gS51LS8hScrr_qD-1" target="MS-o8gS51LS8hScrr_qD-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="416" y="-422.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;endArrow=none;endFill=0;startArrow=classic;startFill=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1224" y="-534" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1015" y="-465" />
+              <mxPoint x="1224" y="-465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-40" target="MS-o8gS51LS8hScrr_qD-56" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="DS_EPCM&lt;br&gt;- &lt;b&gt;CRM-LMS Match&lt;/b&gt;&amp;nbsp;-&amp;nbsp;&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;i&gt;(USER ID - UUID - ENROLLMENT DATE_MATCH_KEY )&lt;/i&gt;&lt;/font&gt;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-40">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="873" y="-303" width="283" height="68" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-42" target="MS-o8gS51LS8hScrr_qD-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="437" y="-1077" />
+              <mxPoint x="784" y="-1077" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="Parent Program&lt;br&gt;&lt;i&gt;&lt;b&gt;Data warehouse DIM Table&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="8iHAjh2WpPkE" id="MS-o8gS51LS8hScrr_qD-42">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="305" y="-1180" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-44" target="MS-o8gS51LS8hScrr_qD-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-44" value="Components" style="swimlane;horizontal=0;rounded=1;fontSize=12;startSize=23;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="288" y="-1387.5" width="297" height="146" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Program Enrollments&lt;br&gt;&lt;b&gt;&lt;i&gt;- Salesforce -&lt;/i&gt;&lt;/b&gt;" lucidchartObjectId="7jHAJtHe2Cm-" id="MS-o8gS51LS8hScrr_qD-45">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-44" vertex="1">
+            <mxGeometry x="47" y="18" width="225" height="52" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;br&gt;&lt;/i&gt;Opportunity Bundle&lt;br&gt;&lt;b&gt;&lt;i&gt;- Salesforce -&lt;/i&gt;&lt;/b&gt;" lucidchartObjectId="hkHAQGbRr5Ej" id="MS-o8gS51LS8hScrr_qD-46">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-44" vertex="1">
+            <mxGeometry x="47" y="81" width="225" height="53" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-48" target="MS-o8gS51LS8hScrr_qD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-48" value="Components" style="swimlane;horizontal=0;rounded=1;fontSize=12;startSize=23;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="980" y="-1464" width="297" height="226" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Academic Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce Account -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="OoHA.fsb_teF" id="MS-o8gS51LS8hScrr_qD-49">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-48" vertex="1">
+            <mxGeometry x="46" y="18" width="225" height="53" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Corporate&amp;nbsp;Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce Account -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="ToHAZMlGt-.y" id="MS-o8gS51LS8hScrr_qD-50">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-48" vertex="1">
+            <mxGeometry x="46" y="84" width="225" height="56" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Hiring Partners&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce Account -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="wpHAEqQC0IKL" id="MS-o8gS51LS8hScrr_qD-51">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-48" vertex="1">
+            <mxGeometry x="46" y="154" width="225" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-53" target="MS-o8gS51LS8hScrr_qD-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MODELED UEID&lt;/font&gt;&lt;/b&gt;&lt;br&gt;OPP_ID --&amp;gt; LMS PROGRAM ENROLLMENT ID&lt;br&gt;1:1 Relationship" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.10971615720524018;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1023" y="-416.5" width="229" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=15;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-56" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1267" y="-539" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1098" y="-201" />
+              <mxPoint x="1270" y="-201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=15;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-56" target="MS-o8gS51LS8hScrr_qD-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="932" y="-201" />
+              <mxPoint x="706" y="-201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="&lt;b style=&quot;font-size: 15px;&quot;&gt;EPCM3&lt;/b&gt;&lt;br&gt;&lt;i&gt;Data Processing and Model Calculations&amp;nbsp;&lt;/i&gt;" lucidchartObjectId="YItA6roW3f0o" id="MS-o8gS51LS8hScrr_qD-56">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;spacing=3.8;strokeColor=#9673a6;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e1d5e7;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="848.5" y="-116" width="332" height="68" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="nTIA6ZvlvFQI" id="MS-o8gS51LS8hScrr_qD-57">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#cc4e00;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.005;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-56" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="590" y="-99" />
+                <mxPoint x="590" y="-748" />
+              </Array>
+              <mxPoint x="848.5" y="-76" as="sourcePoint" />
+              <mxPoint x="415.55499999999984" y="-748.0540000000171" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-58" value="Add to Static.Completers when &lt;br&gt;Learner completes the program/course" style="text;html=1;resizable=0;labelBackgroundColor=none;align=center;verticalAlign=middle;fontColor=#1d262b;fontSize=13;rounded=1;" parent="MS-o8gS51LS8hScrr_qD-57" vertex="1">
+          <mxGeometry x="0.22609501414616062" relative="1" as="geometry">
+            <mxPoint x="130" y="404" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-59" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Enrollment Progression Completion&lt;br&gt;Data Model&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="910" y="261" width="222" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#1A1A1A;fontSize=12;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-61" target="MS-o8gS51LS8hScrr_qD-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-61" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;PROGRAM_STUDENT_STATUS&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;PROGRAM_ACCESS&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;PROGRAM_DISABLED_REASON&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;SUPPORT_HAS_EXPIRED&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Fira Code&amp;quot;;&quot; class=&quot;p1&quot;&gt;&lt;font color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot; class=&quot;s1&quot;&gt;,&lt;/span&gt;STUDENT_STATUS&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=0;size=0.10971615720524018;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;align=center;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="-191" y="-533.5" width="259" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-62" value="" style="group" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1" connectable="0">
+          <mxGeometry x="105" y="-974" width="311.00000000000006" height="324" as="geometry" />
+        </mxCell>
+        <UserObject label="Catalog Courses&lt;br&gt;Completers" lucidchartObjectId="gKrAsocFKFoQ" id="MS-o8gS51LS8hScrr_qD-66">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-62" vertex="1">
+            <mxGeometry x="22" y="137" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Catalog Programs&lt;br&gt;Completers" lucidchartObjectId="CLrAkubVnPRc" id="MS-o8gS51LS8hScrr_qD-67">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-62" vertex="1">
+            <mxGeometry x="25" y="68" width="263" height="46" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Canvas Course (Standalone)&lt;br&gt;Completers" lucidchartObjectId="ULrAxwUtAxgy" id="MS-o8gS51LS8hScrr_qD-68">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-62" vertex="1">
+            <mxGeometry x="22" y="219" width="263" height="49" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-64" value="CANVAS STATIC DATA&lt;br&gt;&lt;b&gt;Completers&lt;/b&gt;" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=38;dropTarget=0;rounded=1;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;fillColor=#F5FBFF;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;" parent="MS-o8gS51LS8hScrr_qD-62" vertex="1">
+          <mxGeometry x="-7" y="11" width="311" height="301" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-70" value="" style="group" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1" connectable="0">
+          <mxGeometry x="109" y="-642" width="311" height="266" as="geometry" />
+        </mxCell>
+        <UserObject label="EPCM 2.1 Learner Status" lucidchartObjectId="tUrAOs3MMmTN" id="MS-o8gS51LS8hScrr_qD-71">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-70" vertex="1">
+            <mxGeometry x="26.5" y="197.7433962264151" width="263" height="49.18490566037736" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;Program Learner Status&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;i&gt;&amp;nbsp;- SF Program Enrollment -&amp;nbsp;&lt;/i&gt;" lucidchartObjectId="tUrAnZRN21lc" id="MS-o8gS51LS8hScrr_qD-72">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-70" vertex="1">
+            <mxGeometry x="21.5" y="58.218867924528304" width="263" height="49.18490566037736" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;b&gt;Learner Status&amp;nbsp;&lt;br&gt;&lt;/b&gt;(Logic)&lt;br&gt;&lt;i&gt;- SF Enrollment -&amp;nbsp;&lt;/i&gt;" lucidchartObjectId="tUrAnZRN21lc" id="MS-o8gS51LS8hScrr_qD-73">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-70" vertex="1">
+            <mxGeometry x="21.5" y="128.48301886792453" width="263" height="49.18490566037736" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-74" value="CANVAS STATIC DATA&lt;br&gt;&lt;b&gt;Expired - Withdraw - Returns - Disabled&lt;/b&gt;" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=41;dropTarget=0;rounded=1;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;fillColor=#F5FBFF;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;" parent="MS-o8gS51LS8hScrr_qD-70" vertex="1">
+          <mxGeometry width="311" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-75" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#1A1A1A;fontSize=12;fontColor=#1A1A1A;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-76" target="MS-o8gS51LS8hScrr_qD-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-76" value="Components" style="swimlane;horizontal=0;rounded=1;fontSize=12;startSize=23;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="635" y="-1554" width="297" height="316" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Accounts&lt;br&gt;&lt;i&gt;&lt;b&gt;- Salesforce -&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="OoHA.fsb_teF" id="MS-o8gS51LS8hScrr_qD-77">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-76" vertex="1">
+            <mxGeometry x="46" y="18" width="225" height="53" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Users&lt;br&gt;&lt;i&gt;&lt;b&gt;- Canvas -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="ToHAZMlGt-.y" id="MS-o8gS51LS8hScrr_qD-78">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-76" vertex="1">
+            <mxGeometry x="46" y="84" width="225" height="56" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Users&lt;br&gt;&lt;i&gt;&lt;b&gt;- DAIS -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="wpHAEqQC0IKL" id="MS-o8gS51LS8hScrr_qD-79">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-76" vertex="1">
+            <mxGeometry x="46" y="154" width="225" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;i&gt;From:&lt;/i&gt;&lt;br&gt;Users&lt;br&gt;&lt;i&gt;&lt;b&gt;- BigCommerce -&amp;nbsp;&lt;/b&gt;&lt;/i&gt;" lucidchartObjectId="wpHAEqQC0IKL" id="MS-o8gS51LS8hScrr_qD-80">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#008a0e;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#e3fae3;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-76" vertex="1">
+            <mxGeometry x="46" y="226" width="225" height="58" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-81" value="etc...." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1A1A1A;fontStyle=1" parent="MS-o8gS51LS8hScrr_qD-76" vertex="1">
+          <mxGeometry x="224" y="290" width="49" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="MS-o8gS51LS8hScrr_qD-1" source="MS-o8gS51LS8hScrr_qD-83" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="-851" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-83" value="Rest API&lt;br&gt;Higher &lt;br&gt;Frequency&amp;nbsp;" style="whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1462" y="-881" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-84" value="1" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1519" y="-921" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-85" value="2&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeWidth%3D3%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221440%22%20y%3D%22-958%22%20width%3D%2238%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="572" y="-591" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-86" value="3" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="245.5" y="-205" width="38" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MS-o8gS51LS8hScrr_qD-87" value="&lt;ol&gt;&lt;li&gt;Data Needs List&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;Canvas API &amp;amp; Update EPCM3/STATIC (Billy/Elkin1) &amp;gt;&amp;gt; Done ((upgrading B2C Enrolls Execs. ((B/J/E1.1))&lt;/li&gt;&lt;li&gt;Placement (Josh/Elkin2)&lt;/li&gt;&lt;li&gt;D/F enrollments (Billy-2)/Elkin3&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Sales Events (Brad/Elkin4) &amp;gt;&amp;gt; Elkin(Create) until Billy2 done.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Compensation Engine&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&lt;b&gt;HR Dayforce (Noam) !! ELKIN&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Sales Static&lt;b&gt;&amp;nbsp;&amp;gt;&amp;gt; Billy&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Data Tool (Elkin5//Shinhee)&lt;/li&gt;&lt;li&gt;Data Models (Billy3)&lt;/li&gt;&lt;ol&gt;&lt;li&gt;&amp;nbsp;List of Plans to model (Brad)&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;li&gt;Finishing D/F Sales (E6 &amp;gt; BH4)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ENROLLMENT_PATH (Josh 2) - E8&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Lead &amp;lt; Enrollment &amp;gt; Placement&lt;/li&gt;&lt;li&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Enrollment &amp;gt; Placement&lt;/li&gt;&lt;li&gt;&lt;b&gt;Verified vs unverified Enrollments???&lt;/b&gt;&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Board Metrics Model -- Elkin7&amp;gt;&amp;gt;BH5&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1791" y="-1017" width="617" height="319" as="geometry" />
+        </mxCell>
+        <UserObject label="Time Spent by User/Course&lt;br&gt;&lt;b&gt;- Canvas &amp;amp; Cengage -&amp;nbsp;&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="mZnFdWjLZBDqc2SDLuln-0">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1088" y="-709" width="263" height="62" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mZnFdWjLZBDqc2SDLuln-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="mZnFdWjLZBDqc2SDLuln-1" target="mZnFdWjLZBDqc2SDLuln-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Login Data&lt;br&gt;&lt;b&gt;- Canvas -&amp;nbsp;&lt;/b&gt;" lucidchartObjectId="YItA6roW3f0o" id="mZnFdWjLZBDqc2SDLuln-1">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1088" y="-627" width="263" height="62" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mZnFdWjLZBDqc2SDLuln-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=none;strokeWidth=2;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1070" y="-953" width="293" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="mZnFdWjLZBDqc2SDLuln-4" value="&lt;ul&gt;&lt;li&gt;Course Info.&lt;/li&gt;&lt;li&gt;Module Info&lt;/li&gt;&lt;li&gt;Gradebook (Item)&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Quizes&lt;/li&gt;&lt;li&gt;Assignments&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1462" y="-772" width="209" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="mZnFdWjLZBDqc2SDLuln-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.003;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" parent="MS-o8gS51LS8hScrr_qD-1" source="mZnFdWjLZBDqc2SDLuln-4" target="mZnFdWjLZBDqc2SDLuln-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mZnFdWjLZBDqc2SDLuln-8" value="Requests (**)&lt;br&gt;REST&lt;br&gt;&lt;br&gt;** Unreliable" style="whiteSpace=wrap;html=1;align=left;dashed=1;dashPattern=8 8;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1435" y="-626" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mZnFdWjLZBDqc2SDLuln-10" value="SUMMIT" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=1;spacing=0;strokeColor=#d916a8;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#ff80df;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1589" y="-522" width="311" height="294" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;br&gt;&lt;b&gt;- Matriculation Enrollments -&lt;/b&gt;" lucidchartObjectId="lItA-AVAxaY0" id="mZnFdWjLZBDqc2SDLuln-13">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1609" y="-469" width="263" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;br&gt;&lt;b&gt;- Users -&lt;/b&gt;" lucidchartObjectId="lItA-AVAxaY0" id="mZnFdWjLZBDqc2SDLuln-14">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1609" y="-404" width="263" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;br&gt;&lt;b&gt;- Orders -&lt;/b&gt;" lucidchartObjectId="lItA-AVAxaY0" id="mZnFdWjLZBDqc2SDLuln-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#d916a8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+            <mxGeometry x="1609" y="-339" width="263" height="41" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="mZnFdWjLZBDqc2SDLuln-16" value="" style="sketch=0;outlineConnect=0;fillColor=#990000;strokeColor=#b85450;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" parent="MS-o8gS51LS8hScrr_qD-1" vertex="1">
+          <mxGeometry x="1791" y="-348" width="41" height="78" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="EPCM 4 Data Flow" id="QEpAFsxk3cjyeebq0E3_">
+    <mxGraphModel dx="2156" dy="1170" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-0" />
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-1" parent="M_zX-5L_5nRe01kQgQFU-0" />
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-2" value="" style="fillColor=none;strokeColor=none;pointerEvents=0;fontStyle=0;html=1;whiteSpace=wrap;container=1;collapsible=0;childLayout=stackLayout;resizeParent=1;dropTarget=0;horizontalStack=0;fontSize=13;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;horizontal=0;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+          <mxGeometry x="55" y="107" width="1703.999999999971" height="1064.9999999999714" isRotated="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-3" value="PROGRAM ENROLLMENT" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="M_zX-5L_5nRe01kQgQFU-2" vertex="1">
+          <mxGeometry width="1703.999999999971" height="182.9999999999709" as="geometry" />
+        </mxCell>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-4" value="CANVAS" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="M_zX-5L_5nRe01kQgQFU-2" vertex="1">
+          <mxGeometry y="182.9999999999709" width="1703.999999999971" height="158.00000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-5" value="DIM LEARNER" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="M_zX-5L_5nRe01kQgQFU-2" vertex="1">
+          <mxGeometry y="340.99999999997095" width="1703.999999999971" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-6" value="DIM PARENT PROGRAM" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#00c2a8;" parent="M_zX-5L_5nRe01kQgQFU-2" vertex="1">
+          <mxGeometry y="484.99999999997095" width="1703.999999999971" height="174.99999999999994" as="geometry" />
+        </mxCell>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-7" value="DIM PARTNERS" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="M_zX-5L_5nRe01kQgQFU-2" vertex="1">
+          <mxGeometry y="659.9999999999709" width="1703.999999999971" height="128.00000000000023" as="geometry" />
+        </mxCell>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-8" value="EPCM" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#f2f3f5;" parent="M_zX-5L_5nRe01kQgQFU-2" vertex="1">
+          <mxGeometry y="787.9999999999711" width="1703.999999999971" height="130.0000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="M_zX-5L_5nRe01kQgQFU-9" value="TABLEAU &#xa;DATA SOURCES" style="swimlane;html=1;whiteSpace=wrap;connectable=0;fontStyle=0;startSize=30;dropTarget=0;rounded=0;horizontal=0;spacing=0;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;fontSize=13;fontColor=#1d262b;fillColor=#1071e5;" parent="M_zX-5L_5nRe01kQgQFU-2" vertex="1">
+          <mxGeometry y="917.9999999999712" width="1703.999999999971" height="147" as="geometry" />
+        </mxCell>
+        <UserObject label="EPCM 3.1 - ENROLLMENT PROGRESSION COMPLETION DATA MODEL v3.1" lucidchartObjectId="5DqNV85SuKYy" id="M_zX-5L_5nRe01kQgQFU-10">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;fontStyle=1;spacing=0;fillColor=#ffffff;strokeWidth=1.5;strokeColor=none;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="556" y="62" width="609" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds Program Enrollments" lucidchartObjectId="oboNAiWMeFzl" id="M_zX-5L_5nRe01kQgQFU-11">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="117" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="0boNh5Gkw0nS" id="M_zX-5L_5nRe01kQgQFU-12">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-11" target="M_zX-5L_5nRe01kQgQFU-13" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="276" y="964" />
+                <mxPoint x="276" y="675" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gets DIM Parent Program using SF ProgramID" lucidchartObjectId="1boNdsGF-eq5" id="M_zX-5L_5nRe01kQgQFU-13">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="303" y="630" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="7coNkI64A0v5" id="M_zX-5L_5nRe01kQgQFU-14">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=0.431;entryY=-0.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-13" target="M_zX-5L_5nRe01kQgQFU-15" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds DIM PARENT PROGRAM ID" lucidchartObjectId="8coNCfcimU5r" id="M_zX-5L_5nRe01kQgQFU-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="311" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CD PROGRAM ENROLLMENTS" lucidchartObjectId="EgoNhQwAGKgj" id="M_zX-5L_5nRe01kQgQFU-16">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="253" y="149" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="OgoNm.py.vLp" id="M_zX-5L_5nRe01kQgQFU-17">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=0.55;entryY=-0.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-16" target="M_zX-5L_5nRe01kQgQFU-11" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="313" y="258" />
+                <mxPoint x="183" y="258" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="rioN5fbWGNbD" id="M_zX-5L_5nRe01kQgQFU-18">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-15" target="M_zX-5L_5nRe01kQgQFU-19" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="489" y="964" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gets All Learner Data using UUID" lucidchartObjectId="sioNstYFsyxX" id="M_zX-5L_5nRe01kQgQFU-19">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="429" y="475" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ijoN9GvMr2T-" id="M_zX-5L_5nRe01kQgQFU-20">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-19" target="M_zX-5L_5nRe01kQgQFU-21" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="587" y="520" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds Learner DimRowID, Funded Flag" lucidchartObjectId="jjoNQpU-Ou~V" id="M_zX-5L_5nRe01kQgQFU-21">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="527" y="914" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Gets DIM PARTNER ID using  SF Partner Account ID" lucidchartObjectId="okoNnCfKjKEW" id="M_zX-5L_5nRe01kQgQFU-22">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffd6f5;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="668" y="781" width="120" height="99" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="skoNO.3Uip.I" id="M_zX-5L_5nRe01kQgQFU-23">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.483;entryY=1.011;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-21" target="M_zX-5L_5nRe01kQgQFU-22" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds Partner, Name and Da Flag" lucidchartObjectId="-koNLAjRX2Kc" id="M_zX-5L_5nRe01kQgQFU-24">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="801" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId=".loN-ZvvDkEp" id="M_zX-5L_5nRe01kQgQFU-25">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=-0.011;exitPerimeter=0;entryX=0.5;entryY=1.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-22" target="M_zX-5L_5nRe01kQgQFU-26" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Check against PE associated Partner" lucidchartObjectId="~loNM1Y6_ZVk" id="M_zX-5L_5nRe01kQgQFU-26">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="668" y="149" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ImoNJgUKALK-" id="M_zX-5L_5nRe01kQgQFU-27">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-26" target="M_zX-5L_5nRe01kQgQFU-24" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="5moNl4K-9cTb" id="M_zX-5L_5nRe01kQgQFU-28">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=0.5;entryY=1.011;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-24" target="M_zX-5L_5nRe01kQgQFU-29" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;&quot;&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;&quot;&gt;Get ALLS LMS data connected by &lt;/span&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;font-weight: bold;&quot;&gt;UUID&lt;/span&gt;&lt;span style=&quot;font-size:13px;color:#1d262b;&quot;&gt;&amp;nbsp;,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 13px; color: rgb(29, 38, 43);&quot;&gt;&lt;b&gt;DIM PARENT PROGRAM or DATE_MATCH_KEY&lt;/b&gt;&lt;br&gt;as needed&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="6moNLdRVpLAE" id="M_zX-5L_5nRe01kQgQFU-29">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ff8f8f;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="928" y="319" width="245" height="99" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="1noNzMQkHfsK" id="M_zX-5L_5nRe01kQgQFU-30">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.004;entryY=0.5;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-29" target="M_zX-5L_5nRe01kQgQFU-31" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="CD CATALOG PROGRAM ENROLLMENTS&#xa;or CD CATALOG COURSE ENROLLMENTS&#xa;or CD CANVAS COURSE ENROLLMENTS" lucidchartObjectId="2noN~9vboM_p" id="M_zX-5L_5nRe01kQgQFU-31">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6f7681;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#dfe3e8;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="1240" y="323.5" width="293" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="npoNY4rP~sOx" id="M_zX-5L_5nRe01kQgQFU-32">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.474;exitY=1.012;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-31" target="M_zX-5L_5nRe01kQgQFU-33" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Adds All Program Data  Calculations PPR/CPR " lucidchartObjectId="ppoN3oeHnlim" id="M_zX-5L_5nRe01kQgQFU-33">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;fontColor=#1d262b;spacing=9;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="1319" y="919" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="cvoNyHBn8o~7" id="M_zX-5L_5nRe01kQgQFU-34">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.012;exitPerimeter=0;entryX=0.5;entryY=-0.012;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-33" target="M_zX-5L_5nRe01kQgQFU-35" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="1379" y="1045" />
+                <mxPoint x="720" y="1045" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Updates all DATA SOURCES based on EPCM" lucidchartObjectId="dvoNbPqZpw3s" id="M_zX-5L_5nRe01kQgQFU-35">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="660" y="1071" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="JVoND7st20sP" id="M_zX-5L_5nRe01kQgQFU-36">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-35" target="M_zX-5L_5nRe01kQgQFU-37" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Refresh All Business Dashboards" lucidchartObjectId="KVoNap1rdo.z" id="M_zX-5L_5nRe01kQgQFU-37">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="886" y="1071" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="DnqNJ-KcBidy" id="M_zX-5L_5nRe01kQgQFU-38">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-37" target="M_zX-5L_5nRe01kQgQFU-39" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Refresh All Executive Dashboards" lucidchartObjectId="EnqN_CMn5DzZ" id="M_zX-5L_5nRe01kQgQFU-39">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=process;fontSize=13;fontColor=#1d262b;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#F5FBFF;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="1111" y="1071" width="120" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="roqNxQka2S1a" id="M_zX-5L_5nRe01kQgQFU-40">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.009;exitY=0.5;exitPerimeter=0;entryX=-0.014;entryY=0.5;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-39" target="M_zX-5L_5nRe01kQgQFU-41" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="End" lucidchartObjectId="toqNBo3qc0yq" id="M_zX-5L_5nRe01kQgQFU-41">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=13;fontColor=#ffffff;fontStyle=1;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;fillColor=#4c535d;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="1324" y="1097" width="78" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Start" lucidchartObjectId="kyqNOiih9JfL" id="M_zX-5L_5nRe01kQgQFU-42">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rounded=1;arcSize=50;fontSize=13;fontColor=#ffffff;fontStyle=1;spacing=3.8;strokeColor=#6db1ff;strokeOpacity=100;fillOpacity=100;fillColor=#4c535d;strokeWidth=2.3;" parent="M_zX-5L_5nRe01kQgQFU-1" vertex="1">
+            <mxGeometry x="131" y="175" width="78" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="qyqN5n.lhliB" id="M_zX-5L_5nRe01kQgQFU-43">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#6db1ff;strokeOpacity=100;strokeWidth=2.3;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.014;exitY=0.5;exitPerimeter=0;entryX=-0.009;entryY=0.5;entryPerimeter=0;" parent="M_zX-5L_5nRe01kQgQFU-1" source="M_zX-5L_5nRe01kQgQFU-42" target="M_zX-5L_5nRe01kQgQFU-16" edge="1">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="MH8pcVbQWTYYFlk4W0Pl" name="NEW CANVAS DATA STRUCTURE">
+    <mxGraphModel dx="2556" dy="1970" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vZMTzWUqOBfykcCGc5Qh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PIBkPPryDI24P_3J9mgx-1" target="vZMTzWUqOBfykcCGc5Qh-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-1" value="&lt;b style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;CD CANVAS COURSE ENROLLMENTS&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="-404" width="1232" height="531" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-2" value="CD CATALOG PROGRAMS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="-309" width="317" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-3" value="CD CATALOG COURSES" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="-227" width="317" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-4" value="CD&amp;nbsp;COURSE&lt;br&gt;CURRENT SCORE" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#CFCFCF;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="-140" width="317" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="142" y="-282" width="518" height="331" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-11" value="" style="group" vertex="1" connectable="0" parent="PIBkPPryDI24P_3J9mgx-10">
+          <mxGeometry width="518" height="331" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-8" value="&lt;b&gt;&lt;font color=&quot;#000099&quot;&gt;&lt;br&gt;CD CANVAS COURSE MODULES&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="PIBkPPryDI24P_3J9mgx-11">
+          <mxGeometry width="518" height="331" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-5" value="CD COURSE MODULE QUIZES" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;flipH=1;fillColor=#647687;strokeColor=#314354;fontColor=#333333;" vertex="1" parent="PIBkPPryDI24P_3J9mgx-11">
+          <mxGeometry x="66" y="227" width="391" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-6" value="CD COURSE MODULE ASSESMENTS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;flipH=1;fillColor=#647687;strokeColor=#314354;fontColor=#333333;" vertex="1" parent="PIBkPPryDI24P_3J9mgx-11">
+          <mxGeometry x="64.5" y="149" width="389" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PIBkPPryDI24P_3J9mgx-9" value="CD CANVAS COURSE MODULES ITEMS" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;flipH=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="PIBkPPryDI24P_3J9mgx-11">
+          <mxGeometry x="60" y="73" width="398" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="vZMTzWUqOBfykcCGc5Qh-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;CANVAS CORE-DATASETS FOR EPCM v4.0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="5" y="-461" width="628" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="vZMTzWUqOBfykcCGc5Qh-2" value="Canvas Course Gradebook" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;size=0.060240963855421686;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="702" y="-99" width="214" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vZMTzWUqOBfykcCGc5Qh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="PIBkPPryDI24P_3J9mgx-6" target="vZMTzWUqOBfykcCGc5Qh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZMTzWUqOBfykcCGc5Qh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="PIBkPPryDI24P_3J9mgx-5" target="vZMTzWUqOBfykcCGc5Qh-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vZMTzWUqOBfykcCGc5Qh-5" value="DS_CANVAS_ENROLLMENTS&lt;br&gt;Grain: Module Item" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;fontFamily=Architects Daughter;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeWidth=2;size=0.05463182897862233;" vertex="1" parent="1">
+          <mxGeometry x="555" y="165" width="361" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MEkSb2bbrLa_QTKxsZZl-1" value="CD&amp;nbsp;COURSE TIMESPENT &lt;br&gt;(Canvas + Cengage)" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#CFCFCF;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="22" width="317" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="MEkSb2bbrLa_QTKxsZZl-2" value="CD&amp;nbsp;COURSE LOGIN ACTIVITY" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#CFCFCF;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-229" y="-56" width="317" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="MEkSb2bbrLa_QTKxsZZl-3" value="&lt;ol&gt;&lt;li&gt;Decouple Canvas from EPCM v3.1 - Run it and save historical.&lt;/li&gt;&lt;li&gt;Build New Canvas Core datasets for EPCM v4.0&lt;/li&gt;&lt;li&gt;Build DS_CANVAS_ENROLLMENTS&lt;/li&gt;&lt;li&gt;Union : ds_epcm3.1(nonCanvas) &amp;amp; ds_canvas_enrollments &amp;gt;&amp;gt; ds_epcm4&lt;/li&gt;&lt;li&gt;build epcm4 &amp;gt;&amp;gt; ds_epcm4&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="-288" y="243" width="709" height="172" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
